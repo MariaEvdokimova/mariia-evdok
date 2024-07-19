@@ -1,2 +1,1 @@
-# mariia-evdok
-My portfolio website built with React.JS
+<h1 align="center">Hi 👋, I'm Mariia Evdokimova</h1>
